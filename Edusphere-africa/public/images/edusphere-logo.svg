@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 168" fill="none" role="img" aria-label="Edusphere Africa">
+  <defs>
+    <linearGradient id="l-navy" x1="20" y1="20" x2="140" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B2D7E"/>
+      <stop offset="0.55" stop-color="#1453B0"/>
+      <stop offset="1" stop-color="#1E63D6"/>
+    </linearGradient>
+    <linearGradient id="l-green" x1="40" y1="60" x2="130" y2="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E7A3E"/>
+      <stop offset="0.55" stop-color="#16A34A"/>
+      <stop offset="1" stop-color="#46CE5E"/>
+    </linearGradient>
+    <linearGradient id="l-africa" x1="84" y1="58" x2="118" y2="104" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#124FA8"/>
+      <stop offset="1" stop-color="#16A06B"/>
+    </linearGradient>
+    <radialGradient id="l-globe" cx="0.38" cy="0.32" r="0.85">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.75" stop-color="#EAF3FF"/>
+      <stop offset="1" stop-color="#D2E4FB"/>
+    </radialGradient>
+    <linearGradient id="l-ring" x1="20" y1="62" x2="142" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1453B0"/>
+      <stop offset="0.5" stop-color="#1697B8"/>
+      <stop offset="1" stop-color="#37C757"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mark: 150px square at x=4, vertically centred -->
+  <g transform="translate(4,9) scale(0.9375)">
+    <g transform="rotate(-16 80 88)">
+      <ellipse cx="80" cy="88" rx="68" ry="23" stroke="url(#l-ring)" stroke-width="6.5"/>
+    </g>
+    <path d="M63 47 L80 56 L97 47 L97 60 L80 69 L63 60 Z" fill="#0D3B8F"/>
+    <path d="M37 38 L80 21 L123 38 L80 54 Z" fill="url(#l-navy)"/>
+    <path d="M122 39 C133 47 134 57 130 66" stroke="#16A3B8" stroke-width="3.2" stroke-linecap="round" fill="none"/>
+    <circle cx="129" cy="68" r="4.4" fill="url(#l-green)"/>
+    <circle cx="80" cy="86" r="41" fill="url(#l-globe)" stroke="url(#l-navy)" stroke-width="4.5"/>
+    <ellipse cx="80" cy="86" rx="18" ry="41" stroke="#AECBEE" stroke-width="1.5"/>
+    <path d="M42 86 H118" stroke="#AECBEE" stroke-width="1.5"/>
+    <path d="M46 72 H114" stroke="#C9DDF6" stroke-width="1.2"/>
+    <path d="M46 100 H114" stroke="#C9DDF6" stroke-width="1.2"/>
+    <path d="M93 59 C101 53 113 56 116 65 C119 72 116 77 112 82 C109 86 110 90 114 95 C118 101 113 108 105 109 C98 110 93 105 91 99 C89 94 85 92 84 86 C83 80 86 75 85 69 C84 63 87 61 93 59 Z" fill="url(#l-africa)"/>
+    <path d="M116 99 C119 102 120 106 118 109 C116 107 114 103 116 99 Z" fill="#16A06B"/>
+    <circle cx="60" cy="74" r="6.5" fill="#1453B0"/>
+    <path d="M48 104 C50 90 70 90 72 104 Z" fill="#1453B0"/>
+    <circle cx="73" cy="88" r="5.4" fill="url(#l-green)"/>
+    <path d="M63 112 C65 100 81 100 83 112 Z" fill="url(#l-green)"/>
+    <circle cx="65" cy="99" r="4.2" fill="#16A3B8"/>
+    <path d="M58 116 C59 108 71 108 72 116 Z" fill="#16A3B8"/>
+    <circle cx="134" cy="74" r="7" fill="url(#l-green)"/>
+    <circle cx="131.6" cy="71.6" r="2.2" fill="#BFF3C9" opacity="0.9"/>
+    <path d="M27 134 C45 122 66 121 78 129 L78 147 C64 139 44 140 27 150 Z" fill="url(#l-navy)"/>
+    <path d="M82 129 C94 121 115 122 133 134 L133 150 C116 140 96 139 82 147 Z" fill="url(#l-green)"/>
+    <path d="M80 128.5 L80 147.5" stroke="#FFFFFF" stroke-width="2" opacity="0.85"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="164" y="92" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="900" letter-spacing="-2.6" fill="#0A2457">Edusphere</text>
+  <path d="M166 122 h44" stroke="#16A34A" stroke-width="6" stroke-linecap="round"/>
+  <text x="218" y="137" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800" letter-spacing="0.4" fill="#159447">Africa</text>
+  <path d="M350 122 h56" stroke="#16A34A" stroke-width="6" stroke-linecap="round"/>
+</svg>

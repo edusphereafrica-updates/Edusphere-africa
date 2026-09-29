@@ -1,0 +1,963 @@
+{
+  "scholarships": [
+    {
+      "id": 1,
+      "slug": "chevening-scholarships-2027",
+      "title": "Chevening Scholarships for Master's Study in the United Kingdom",
+      "summary": "The UK government's fully funded one-year Master's award for emerging leaders from Chevening-eligible countries, covering tuition, a living stipend, travel and allowances.",
+      "provider": "UK Foreign, Commonwealth & Development Office",
+      "country": "United Kingdom",
+      "studyLevel": "Master's",
+      "fundingType": "Fully Funded",
+      "applicants": "Professionals with 2+ years of work experience, any nationality eligible for Chevening",
+      "deadline": "2026-11-04",
+      "benefits": [
+        "Full tuition fees paid directly to your chosen university",
+        "Monthly living stipend of £1,333 (London: £1,516)",
+        "One return economy airfare to the UK",
+        "Arrival and departure allowances",
+        "Thesis and study grants"
+      ],
+      "requirements": [
+        "Return to your country of citizenship for at least two years after the scholarship ends",
+        "Hold a relevant undergraduate degree equivalent to an upper second-class UK honours degree",
+        "Have at least two years (2,880 hours) of work experience, whether paid or voluntary",
+        "Apply to and receive an unconditional offer for up to three eligible UK courses",
+        "Meet the English language requirement (IELTS 6.5 overall, 5.5 in each component) before the deadline"
+      ],
+      "documents": [
+        "Two reference letters (academic or professional)",
+        "Passport or national identity card",
+        "University transcripts and degree certificate",
+        "IELTS / TOEFL / PTE English test result",
+        "Up to four UK university course offers via UFES",
+        "Curriculum vitae describing your leadership and networking record"
+      ],
+      "howToApply": [
+        "Create an account on the Chevening online application system (UFES) before the closing date.",
+        "Complete all four essay questions on leadership, networking, career plan and study in the UK.",
+        "Add your three preferred UK Master's courses and both references.",
+        "Submit and upload supporting documents — incomplete applications are not considered.",
+        "Shortlisted candidates attend an interview at the British High Commission between February and April.",
+        "Final results are released in June, with the programme beginning in September."
+      ],
+      "applyUrl": "https://www.chevening.org/scholarships/",
+      "sourceName": "chevening.org",
+      "sourceUrl": "https://www.chevening.org/scholarships/",
+      "image": "/images/cat-abroad.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "featured": true,
+      "publishedAt": "2026-09-18"
+    },
+    {
+      "id": 2,
+      "slug": "mastercard-foundation-scholars-ubc",
+      "title": "Mastercard Foundation Scholars Program — University of British Columbia",
+      "summary": "A fully funded graduate award for African students admitted to selected Master's programs at UBC, paired with mentorship, a transition-to-work program and a global alumni network.",
+      "provider": "Mastercard Foundation & University of British Columbia",
+      "country": "Canada",
+      "studyLevel": "Master's",
+      "fundingType": "Fully Funded",
+      "applicants": "Graduates from African countries with a demonstrated record of community leadership",
+      "deadline": "2026-10-15",
+      "benefits": [
+        "Full tuition and student fees for the length of the program",
+        "Living allowance and settlement support",
+        "One-way airfare to Vancouver",
+        "Laptop, study materials and health coverage allowance",
+        "Paid internship placement and career coaching after graduation"
+      ],
+      "requirements": [
+        "Citizen of and ordinarily resident in an African country",
+        "Hold a four-year undergraduate degree (or equivalent) with a B+ average (76%)",
+        "Be admitted to one of the eligible UBC Master's programs before the funding deadline",
+        "Demonstrate leadership in your community through work, volunteering or enterprise",
+        "Not have previously completed a graduate degree"
+      ],
+      "documents": [
+        "Statement of leadership and community impact (max 1,500 words)",
+        "Two academic references",
+        "Official transcripts in certified English translation",
+        "Curriculum vitae",
+        "Proof of English proficiency",
+        "Admission offer letter from UBC (may follow before final selection)"
+      ],
+      "howToApply": [
+        "Apply for admission to an eligible UBC graduate program through the UBC online application.",
+        "In the funding section of the application, select the Mastercard Foundation Scholars Program.",
+        "Submit the additional leadership statement and supporting documents before the program deadline.",
+        "Shortlisted scholars are interviewed online in November and December.",
+        "Results are issued with admission offers in January, for a September intake."
+      ],
+      "applyUrl": "https://grad.ubc.ca/future-students/graduate-scholarships-awards",
+      "sourceName": "grad.ubc.ca",
+      "sourceUrl": "https://grad.ubc.ca/future-students/graduate-scholarships-awards",
+      "image": "/images/cat-scholarships.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "featured": true,
+      "publishedAt": "2026-09-16"
+    },
+    {
+      "id": 3,
+      "slug": "swiss-government-excellence-phd",
+      "title": "Swiss Government Excellence Research Scholarships for PhD Candidates",
+      "summary": "Postgraduate research scholarships for doctoral and postdoctoral students to pursue a PhD or research fellowship at a Swiss cantonal university, ETH domain or federal institute.",
+      "provider": "Swiss Confederation — Federal Commission for Scholarships",
+      "country": "Switzerland",
+      "studyLevel": "PhD",
+      "fundingType": "Fully Funded",
+      "applicants": "Master's graduates and early-career researchers with an accepted PhD research proposal",
+      "deadline": "2026-10-01",
+      "benefits": [
+        "CHF 1,920 per month living stipend for the full grant period",
+        "Tuition fee exemption at the host institution",
+        "Half-fare travel card across Switzerland",
+        "Health insurance covered for the grant duration",
+        "Mandatory research supervision by a Swiss professor"
+      ],
+      "requirements": [
+        "Hold a master's degree awarded no more than three years before the application deadline",
+        "Not hold Swiss nationality and not have previously been funded by the Swiss government",
+        "Contact and secure informal agreement from a professor willing to supervise your research",
+        "No more than one previous postdoctoral fellowship of up to one year",
+        "Complete application submitted through the Federal Commission's online form"
+      ],
+      "documents": [
+        "Research proposal of up to five pages signed by the supervising professor",
+        "Master's degree certificate and full transcripts",
+        "Two letters of academic recommendation",
+        "Curriculum vitae with publication list",
+        "Passport copy",
+        "Signed supervision letter from the host professor"
+      ],
+      "howToApply": [
+        "Identify a Swiss supervising professor whose research matches your proposal.",
+        "Download and complete the application form from the FCS portal.",
+        "Compile all documents and upload them before the October deadline.",
+        "Application documents are reviewed by the Federal Commission between November and March.",
+        "Results are announced in May, with the grant starting the following September."
+      ],
+      "applyUrl": "https://www.sbfi.admin.ch/sbfi/en/home/funding/scholarships-for-foreign-researchers.html",
+      "sourceName": "sbfi.admin.ch",
+      "sourceUrl": "https://www.sbfi.admin.ch/sbfi/en/home/funding/scholarships-for-foreign-researchers.html",
+      "image": "/images/cat-fellowships.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "featured": false,
+      "publishedAt": "2026-09-14"
+    },
+    {
+      "id": 4,
+      "slug": "mtn-foundation-undergraduate-scholarship",
+      "title": "MTN Foundation Science & Technology Undergraduate Scholarship Scheme",
+      "summary": "An annual Nigerian undergraduate scholarship for full-time students in accredited universities, awarding tuition support across the sciences, engineering and information technology.",
+      "provider": "MTN Foundation Nigeria",
+      "country": "Nigeria",
+      "studyLevel": "Undergraduate",
+      "fundingType": "Fully Funded",
+      "applicants": "Full-time Nigerian undergraduates in year 2–5 of an accredited university program",
+      "deadline": "2026-09-30",
+      "benefits": [
+        "Tuition support paid directly to your institution for the academic session",
+        "Book and research allowance",
+        "Annual renewal subject to a minimum CGPA of 3.5",
+        "Access to MTN internship and graduate recruitment pipelines"
+      ],
+      "requirements": [
+        "Nigerian citizen currently enrolled full-time in an accredited university",
+        "Studying science, engineering, ICT, agriculture or a closely related discipline",
+        "Completed year 2 with a minimum CGPA of 3.5/5.0 or its equivalent",
+        "Not in receipt of any other scholarship for the same academic session",
+        "Available for the online computer-based test and a verification interview"
+      ],
+      "documents": [
+        "Current academic transcript signed by the registrar",
+        "Proof of admission or student identity card",
+        "JAMB admission letter",
+        "Recent passport photograph",
+        "NIN and bank account details in the applicant's name"
+      ],
+      "howToApply": [
+        "Complete the online application form on the MTN Foundation scholarship portal before the deadline.",
+        "Upload your transcript, admission letter and passport photograph.",
+        "Sit the scheduled computer-based aptitude test at an accredited centre.",
+        "Shortlisted candidates attend a verification interview with their original documents.",
+        "Successful scholars are notified and payments are released to their institution."
+      ],
+      "applyUrl": "https://mtnfoundation.org.ng/scholarship/",
+      "sourceName": "mtnfoundation.org.ng",
+      "sourceUrl": "https://mtnfoundation.org.ng/scholarship/",
+      "image": "/images/cat-scholarships.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "featured": false,
+      "publishedAt": "2026-09-12"
+    },
+    {
+      "id": 5,
+      "slug": "commonwealth-shared-scholarships-2027",
+      "title": "Commonwealth Shared Scholarships for Master's Study in the UK",
+      "summary": "UK-funded scholarships for students from developing Commonwealth countries who would not otherwise be able to study in the UK, offered across a list of partner university courses.",
+      "provider": "Commonwealth Scholarship Commission in the UK",
+      "country": "United Kingdom",
+      "studyLevel": "Master's",
+      "fundingType": "Fully Funded",
+      "applicants": "Citizens of an eligible developing Commonwealth country with a relevant undergraduate degree",
+      "deadline": "2027-01-15",
+      "benefits": [
+        "Full tuition fees at the host UK university",
+        "Living allowance of £1,347 per month (£1,668 in London)",
+        "Return airfare to your home country",
+        "Thesis and research grant",
+        "Warm clothing allowance where applicable"
+      ],
+      "requirements": [
+        "Be a citizen of, or be granted refugee status in, an eligible developing Commonwealth country",
+        "Be permanently resident in a developing Commonwealth country",
+        "Hold a first degree of at least upper second-class honours standard",
+        "Not have undertaken studies for one academic year or more in a developed country",
+        "Be confirmed for admission on one of the listed UKMSSA partner courses",
+        "Not have applied for the same course in a previous cycle"
+      ],
+      "documents": [
+        "Transcripts and degree certificate",
+        "Two references, at least one academic",
+        "Proof of English language proficiency",
+        "Evidence of your chosen UKMSSA course offer",
+        "Passport or national ID",
+        "Employment and community leadership history"
+      ],
+      "howToApply": [
+        "Check the list of eligible UKMSSA courses published with this year's offer.",
+        "Apply for admission to your chosen course directly through the UK university.",
+        "Apply for the scholarship through the CSC online application system.",
+        "Submit both applications before the January deadline — the scholarship alone is not enough.",
+        "Nominations are confirmed by the UK university between March and May."
+      ],
+      "applyUrl": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships/",
+      "sourceName": "cscuk.fcdo.gov.uk",
+      "sourceUrl": "https://cscuk.fcdo.gov.uk/scholarships/commonwealth-shared-scholarships/",
+      "image": "/images/cat-abroad.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "featured": false,
+      "publishedAt": "2026-09-08"
+    },
+    {
+      "id": 6,
+      "slug": "aga-khan-foundation-international-scholarship",
+      "title": "Aga Khan Foundation International Scholarship Programme",
+      "summary": "A competitive, need-based award for students from developing countries pursuing postgraduate study, awarded as a 50% grant and 50% loan, with repayment beginning after studies end.",
+      "provider": "Aga Khan Foundation (International)",
+      "country": "Multiple countries",
+      "studyLevel": "Master's",
+      "fundingType": "Need-based",
+      "applicants": "Students under 30 from developing countries admitted to a recognised postgraduate institution",
+      "deadline": "2026-03-20",
+      "benefits": [
+        "50% grant and 50% loan of tuition and living costs",
+        "Loan repayments begin one year after studies are completed",
+        "Academic and career mentoring through the Foundation's network",
+        "Recognition through the Foundation's global alumni community"
+      ],
+      "requirements": [
+        "Citizen of a developing country where AKF is active",
+        "Under 30 years of age at the time of application",
+        "Admitted to a high-quality postgraduate program at a reputable institution",
+        "Demonstrated financial need with no other substantial funding in place",
+        "Strong academic record and a clear plan to return and contribute to your country"
+      ],
+      "documents": [
+        "Admission letter from the university",
+        "Financial statement and family income evidence",
+        "Academic transcripts and certificates",
+        "Two reference letters",
+        "Completed AKF application form submitted through the national agency"
+      ],
+      "howToApply": [
+        "Download the application form from the Aga Khan Foundation national office in your country.",
+        "Complete the form with your admission letter and financial evidence.",
+        "Submit the application to the designated national agency before the March deadline.",
+        "Shortlisted candidates are interviewed by a local selection committee.",
+        "Final results are communicated in June."
+      ],
+      "applyUrl": "https://www.akdn.org/our-agencies/aga-khan-foundation",
+      "sourceName": "akdn.org",
+      "sourceUrl": "https://www.akdn.org/our-agencies/aga-khan-foundation",
+      "image": "/images/cat-scholarships.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "featured": false,
+      "publishedAt": "2026-03-12"
+    },
+    {
+      "id": 7,
+      "slug": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut Schmidt Programme — Public Policy and Good Governance (Master's)",
+      "summary": "Germany's flagship scholarship for future leaders from transition and developing countries, offering English-taught Master's degrees in public policy, governance and development.",
+      "provider": "German Academic Exchange Service (DAAD)",
+      "country": "Germany",
+      "studyLevel": "Master's",
+      "fundingType": "Fully Funded",
+      "applicants": "Graduates in political science, law, economics, public administration or a related field",
+      "deadline": "2026-08-31",
+      "benefits": [
+        "Tuition-free enrolment at eight partner German universities",
+        "Monthly stipend of €992",
+        "Health, accident and liability insurance cover",
+        "Travel allowance and German language course",
+        "Research and thesis funding in the second year"
+      ],
+      "requirements": [
+        "First degree completed within the last six years",
+        "At least two years of professional experience in the public sector, NGO or media",
+        "English proficiency at C1 level (IELTS 6.5 or TOEFL 90) or German C1 for German-taught tracks",
+        "Strong academic record and a letter of recommendation from your employer or university",
+        "Willingness to return to your home country after the programme"
+      ],
+      "documents": [
+        "Completed DAAD online application form",
+        "Curriculum vitae in table format",
+        "Letter of motivation (max two pages)",
+        "Two letters of recommendation, one academic and one professional",
+        "Employer's release and confirmation of professional experience",
+        "Language certificates and certified transcripts"
+      ],
+      "howToApply": [
+        "Choose up to two of the eight partner universities listed in the programme brochure.",
+        "Register in the DAAD portal and complete the online application form.",
+        "Upload all supporting documents in the portal before the August deadline.",
+        "A pre-selection committee reviews applications in October and November.",
+        "Selected candidates are interviewed in December and notified in January."
+      ],
+      "applyUrl": "https://www.daad.de/en/study-and-research-in-germany/scholarships/programmes/helmut-schmidt/",
+      "sourceName": "daad.de",
+      "sourceUrl": "https://www.daad.de/en/study-and-research-in-germany/scholarships/programmes/helmut-schmidt/",
+      "image": "/images/cat-abroad.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "featured": false,
+      "publishedAt": "2026-08-10"
+    }
+  ],
+  "schoolUpdates": [
+    {
+      "id": 1,
+      "slug": "unilag-post-utme-screening-2025-2026",
+      "school": "University of Lagos (UNILAG)",
+      "title": "Post-UTME screening registration opens for 2025/2026 admission seekers",
+      "session": "2025/2026",
+      "category": "Admissions",
+      "summary": "UNILAG has opened its online Post-UTME screening portal for candidates who chose the university as first choice and scored at least 200 in the 2025 UTME.",
+      "appliesTo": "All 2025 UTME candidates who scored 200 or above and listed UNILAG as first choice, including direct-entry applicants holding OND, HND or NCE results.",
+      "dates": [
+        {
+          "label": "Portal opens",
+          "value": "21 September 2026"
+        },
+        {
+          "label": "Registration closes",
+          "value": "12 October 2026, 11:59 pm"
+        },
+        {
+          "label": "Screening exercise",
+          "value": "15–17 October 2026"
+        },
+        {
+          "label": "First admission list",
+          "value": "27 October 2026"
+        }
+      ],
+      "requirements": [
+        "2025 UTME result slip showing a score of 200 or above",
+        "O'level results with at least five credits including English Language and Mathematics",
+        "Confirmation that UNILAG is your first choice institution on JAMB CAPS",
+        "Payment reference for the ₦2,000 screening fee",
+        "Recent passport photograph in JPEG format, not larger than 50KB"
+      ],
+      "steps": [
+        "Visit the UNILAG Post-UTME portal and create an account with your JAMB registration number.",
+        "Pay the screening fee online using a card, transfer or bank branch payment.",
+        "Complete the bio-data form and upload your O'level result and passport photograph.",
+        "Print the completed application slip and bring it to your assigned screening centre.",
+        "Monitor JAMB CAPS for your admission status — confirmation on CAPS is the only valid admission."
+      ],
+      "sourceName": "unilag.edu.ng",
+      "sourceUrl": "https://www.unilag.edu.ng/",
+      "image": "/images/cat-school.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-19"
+    },
+    {
+      "id": 2,
+      "slug": "jamb-correction-of-data-utme-2026",
+      "school": "Joint Admissions & Matriculation Board (JAMB)",
+      "title": "Correction of data window: fix names, date of birth and institution choices",
+      "session": "2026",
+      "category": "Examinations",
+      "summary": "JAMB has reopened its correction of data service, allowing candidates to fix mismatches in names, date of birth and first-choice institution before admission processing begins.",
+      "appliesTo": "Candidates whose JAMB profiles contain an incorrect name, date of birth, state of origin or first-choice institution — especially those awaiting O'level uploads.",
+      "dates": [
+        {
+          "label": "Service window",
+          "value": "8–30 September 2026"
+        },
+        {
+          "label": "In-person profile update",
+          "value": "At any JAMB CBT centre"
+        },
+        {
+          "label": "O'level upload deadline",
+          "value": "31 October 2026"
+        }
+      ],
+      "requirements": [
+        "Original JAMB registration slip",
+        "Valid government-issued ID showing your correct name and date of birth",
+        "O'level scratch card or result checker details for re-upload",
+        "₦1,500 service charge per correction, payable only at an accredited centre"
+      ],
+      "steps": [
+        "Visit the nearest accredited JAMB CBT centre with your registration slip and ID.",
+        "Request the specific correction — name, date of birth, state of origin or institution.",
+        "Pay the service fee at the centre and confirm the change on the printed acknowledgement slip.",
+        "For O'level results, confirm the upload and check that all five credits appear under your JAMB profile.",
+        "Re-check your JAMB CAPS the following week to confirm the correction took effect."
+      ],
+      "sourceName": "jamb.gov.ng",
+      "sourceUrl": "https://www.jamb.gov.ng/",
+      "image": "/images/cat-school.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-17"
+    },
+    {
+      "id": 3,
+      "slug": "nysc-2026-batch-c-stream-1-mobilisation",
+      "school": "National Youth Service Corps (NYSC)",
+      "title": "2026 Batch 'C' Stream I mobilisation timetable released",
+      "session": "2026",
+      "category": "NYSC",
+      "summary": "The NYSC has published the mobilisation timetable for Batch C Stream I, covering online registration, printing of call-up letters and the date of reporting to orientation camps.",
+      "appliesTo": "Graduates of Nigerian and foreign institutions whose names have been submitted for mobilisation by their respective institutions.",
+      "dates": [
+        {
+          "label": "Online registration",
+          "value": "28 September – 9 October 2026"
+        },
+        {
+          "label": "Call-up letter printing",
+          "value": "13 October 2026"
+        },
+        {
+          "label": "Camp opens",
+          "value": "20 October 2026"
+        },
+        {
+          "label": "Stream I orientation ends",
+          "value": "9 November 2026"
+        }
+      ],
+      "requirements": [
+        "Graduation certificate or statement of results",
+        "Valid NYSC registration account with a passport photograph",
+        "Call-up letter printed in colour",
+        "Original tenement/history of service letter for foreign-trained graduates",
+        "Medical fitness certificate from a government hospital where required"
+      ],
+      "steps": [
+        "Log in to the NYSC portal with your matriculation number and password.",
+        "Confirm that your institution has uploaded your details to the mobilisation list.",
+        "Complete bi-data verification and upload your passport photograph if not already done.",
+        "Print your call-up letter from the stated date and note your camp address and reporting date.",
+        "Report to the orientation camp on the scheduled date with your originals and photocopies."
+      ],
+      "sourceName": "nysc.gov.ng",
+      "sourceUrl": "https://portal.nysc.gov.ng/",
+      "image": "/images/cat-school.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-15"
+    },
+    {
+      "id": 4,
+      "slug": "unn-school-fees-registration-extended",
+      "school": "University of Nigeria, Nsukka (UNN)",
+      "title": "School fees payment and course registration deadline extended by two weeks",
+      "session": "2025/2026",
+      "category": "Fees & Payment",
+      "summary": "UNN has extended the deadline for payment of school fees and completion of course registration for the second semester, following requests from student representatives.",
+      "appliesTo": "All returning undergraduates of the University of Nigeria, Nsukka who have not completed second-semester fee payment and online course registration.",
+      "dates": [
+        {
+          "label": "New fees deadline",
+          "value": "30 September 2026"
+        },
+        {
+          "label": "Course registration closes",
+          "value": "2 October 2026"
+        },
+        {
+          "label": "Late payment with penalty",
+          "value": "9 October 2026"
+        },
+        {
+          "label": "Semester examinations begin",
+          "value": "19 October 2026"
+        }
+      ],
+      "requirements": [
+        "Student matriculation number",
+        "Remita payment reference generated from the UNN student portal",
+        "Departmental course adviser approval for your registered courses",
+        "Evidence of payment of any outstanding departmental or faculty levy"
+      ],
+      "steps": [
+        "Log in to the UNN student portal and select the second-semester fee item.",
+        "Generate a Remita reference and pay at any bank branch or with a debit card.",
+        "Return to the portal and upload your payment confirmation slip.",
+        "Select your courses online and submit for your departmental adviser's approval.",
+        "Print the signed course registration form and keep it for examination clearance."
+      ],
+      "sourceName": "unn.edu.ng",
+      "sourceUrl": "https://www.unn.edu.ng/",
+      "image": "/images/cat-school.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-12"
+    },
+    {
+      "id": 5,
+      "slug": "abu-first-batch-admission-list-jamb-caps",
+      "school": "Ahmadu Bello University (ABU)",
+      "title": "First batch admission list published — confirm your offer on JAMB CAPS",
+      "session": "2025/2026",
+      "category": "Admissions",
+      "summary": "ABU has released its first batch list of admitted candidates. Applicants are required to accept their offers on JAMB CAPS to be considered fully admitted.",
+      "appliesTo": "Candidates who chose Ahmadu Bello University as first choice and scored at least 180 in the 2025 UTME and have the required O'level credits.",
+      "dates": [
+        {
+          "label": "List published",
+          "value": "9 September 2026"
+        },
+        {
+          "label": "Accept offer on CAPS",
+          "value": "Before 30 September 2026"
+        },
+        {
+          "label": "Payment of acceptance fee",
+          "value": "Within 14 days of acceptance"
+        },
+        {
+          "label": "Physical screening",
+          "value": "5–9 October 2026"
+        }
+      ],
+      "requirements": [
+        "2025 UTME result slip with the minimum departmental cut-off",
+        "O'level result with the required subject combination",
+        "Original JAMB admission letter after accepting on CAPS",
+        "Evidence of acceptance fee payment",
+        "Local government identification certificate"
+      ],
+      "steps": [
+        "Log in to jamb.gov.ng/efacility and open your JAMB CAPS profile.",
+        "Select 'Check Admission Status' and then 'Accept Admission' if an offer is displayed.",
+        "Print your JAMB admission letter — this is required for all screening and registration.",
+        "Pay the acceptance fee through the ABU portal and print the payment confirmation.",
+        "Attend the physical screening at your faculty with all original documents."
+      ],
+      "sourceName": "abu.edu.ng",
+      "sourceUrl": "https://abu.edu.ng/",
+      "image": "/images/cat-school.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-09"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "slug": "flutterwave-data-analyst-intern",
+      "company": "Flutterwave",
+      "title": "Data Analyst Intern (Graduate Intake)",
+      "location": "Lagos, Nigeria",
+      "workMode": "Hybrid",
+      "employmentType": "Internship",
+      "experience": "Entry level",
+      "summary": "A six-month paid internship for detail-first graduates, supporting payments analytics across Nigeria and West Africa markets.",
+      "description": "The payments analytics team turns raw transaction data into decisions for product, risk and commercial teams. This internship suits a graduate who is comfortable with spreadsheets and SQL and wants to learn production analytics inside a fast-moving payments company.",
+      "responsibilities": [
+        "Build and maintain weekly dashboards for payment volume, success rates and merchant performance.",
+        "Run ad-hoc analysis on transaction data and explain findings in plain language.",
+        "Validate data quality across internal pipelines and flag anomalies to the data engineering team.",
+        "Support pricing, risk and growth teams with recurring reporting.",
+        "Document metrics definitions so the team uses one consistent version of each number."
+      ],
+      "requirements": [
+        "Degree in statistics, mathematics, economics, computer science or a related quantitative field.",
+        "Solid SQL: joins, window functions and aggregations.",
+        "Comfortable in Excel or Google Sheets, including lookups and pivot tables.",
+        "Exposure to Python or R for analysis (pandas, matplotlib) is an advantage.",
+        "Clear written communication and an ability to work three days a week from our Yaba office."
+      ],
+      "salary": null,
+      "deadline": "2026-10-10",
+      "applyUrl": "https://flutterwave.com/careers",
+      "sourceName": "flutterwave.com/careers",
+      "sourceUrl": "https://flutterwave.com/careers",
+      "image": "/images/cat-jobs.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-20"
+    },
+    {
+      "id": 2,
+      "slug": "kpmg-audit-graduate-trainee-2026",
+      "company": "KPMG Nigeria",
+      "title": "Audit Graduate Trainee Programme 2026",
+      "location": "Lagos, Nigeria",
+      "workMode": "On-site",
+      "employmentType": "Graduate programme",
+      "experience": "Entry level",
+      "summary": "A structured two-year audit traineeship for young graduates, combining professional certification support with real client engagements from the first month.",
+      "description": "The Audit Graduate Trainee Programme is KPMG Nigeria's entry route into the audit and assurance practice. Trainees rotate across financial services, energy and consumer markets engagements while working towards a professional qualification with full firm sponsorship.",
+      "responsibilities": [
+        "Plan and execute audit testing under the supervision of an engagement manager.",
+        "Prepare working papers and reconcile client schedules to the general ledger.",
+        "Support year-end reporting and the preparation of financial statements.",
+        "Assess internal control procedures and document findings.",
+        "Build strong client relationships during on-site fieldwork."
+      ],
+      "requirements": [
+        "Minimum of a second-class upper degree in accounting, finance, economics or a related discipline.",
+        "NYSC discharge certificate or exemption (for Nigerian applicants).",
+        "Maximum of two years of post-graduation experience.",
+        "Strong analytical skills and a willingness to begin ACCA or ICAN professional papers.",
+        "Available for the online assessment and panel interview in November."
+      ],
+      "salary": null,
+      "deadline": "2026-09-28",
+      "applyUrl": "https://home.kpmg/ng/en/home/careers.html",
+      "sourceName": "home.kpmg/ng/en/home/careers",
+      "sourceUrl": "https://home.kpmg/ng/en/home/careers.html",
+      "image": "/images/cat-jobs.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-18"
+    },
+    {
+      "id": 3,
+      "slug": "afdb-young-professionals-programme",
+      "company": "African Development Bank Group",
+      "title": "Young Professionals Programme (YPP) — 2027 Cohort",
+      "location": "Abidjan, Côte d'Ivoire",
+      "workMode": "On-site",
+      "employmentType": "Full-time",
+      "experience": "Graduate programme",
+      "summary": "The Bank's flagship two-year entry programme for young African professionals, offering rotations across private sector, infrastructure, agriculture and human capital departments.",
+      "description": "The Young Professionals Programme recruits and develops the next generation of African Development Bank staff. Selected candidates complete a structured two-year journey with departmental rotations, a leadership curriculum and a final placement in a core vice-presidency.",
+      "responsibilities": [
+        "Support the preparation of country strategies, sector studies and project appraisals.",
+        "Contribute to the design and supervision of sovereign and non-sovereign operations.",
+        "Prepare board documents, policy briefs and portfolio performance reports.",
+        "Engage with governments, implementing agencies and development partners.",
+        "Complete assigned rotations and leadership development modules on schedule."
+      ],
+      "requirements": [
+        "Citizen of an African Development Bank member country, aged 32 or below at application.",
+        "Master's degree in economics, finance, engineering, public policy, agriculture or a related field.",
+        "Minimum of three years of relevant professional or research experience.",
+        "Fluency in English and/or French; knowledge of the other is a strong advantage.",
+        "Commitment to a two-year residency in Abidjan, Côte d'Ivoire."
+      ],
+      "salary": "Stated by the Bank: USD 75,400 – 96,800 base pay, plus allowances and benefits",
+      "deadline": "2026-10-31",
+      "applyUrl": "https://www.afdb.org/en/about-us/careers",
+      "sourceName": "afdb.org/careers",
+      "sourceUrl": "https://www.afdb.org/en/about-us/careers",
+      "image": "/images/cat-jobs.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-16"
+    },
+    {
+      "id": 4,
+      "slug": "safaricom-cx-graduate-trainee-nairobi",
+      "company": "Safaricom PLC",
+      "title": "Customer Experience Graduate Trainee",
+      "location": "Nairobi, Kenya",
+      "workMode": "On-site",
+      "employmentType": "Graduate programme",
+      "experience": "Entry level",
+      "summary": "A 12-month graduate trainee programme in Safaricom's customer experience function, rotating through digital channels, retail service and contact centre operations.",
+      "description": "Customer Experience at Safaricom looks after millions of subscribers across voice, digital and retail touchpoints. Graduate trainees spend twelve months rotating through service design, contact centre operations, digital self-service and retail experience before taking up a permanent specialist role.",
+      "responsibilities": [
+        "Analyse customer journey data and identify points of friction.",
+        "Support the rollout of self-service and chatbot flows.",
+        "Prepare weekly service performance reporting for leadership.",
+        "Shadow frontline teams in retail and contact centre environments.",
+        "Conduct customer research and present findings to the experience board."
+      ],
+      "requirements": [
+        "Bachelor's degree completed between 2024 and 2026 in any discipline.",
+        "Kenyan citizen or permanent resident with the right to work in Kenya.",
+        "Demonstrated interest in customer experience, analytics or digital product work.",
+        "Strong presentation skills and comfort working with data.",
+        "Willingness to be based in Nairobi for the duration of the programme."
+      ],
+      "salary": null,
+      "deadline": "2026-10-05",
+      "applyUrl": "https://www.safaricom.co.ke/personal/about-us/careers",
+      "sourceName": "safaricom.co.ke/careers",
+      "sourceUrl": "https://www.safaricom.co.ke/personal/about-us/careers",
+      "image": "/images/cat-jobs.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-14"
+    },
+    {
+      "id": 5,
+      "slug": "andela-associate-software-engineer-remote",
+      "company": "Andela",
+      "title": "Associate Software Engineer — Remote, Africa",
+      "location": "Remote, Africa",
+      "workMode": "Remote",
+      "employmentType": "Full-time",
+      "experience": "Entry level",
+      "summary": "An entry-level engineering role for graduates who have shipped projects through a bootcamp, self-study or a degree and want to work with global clients from day one.",
+      "description": "Andela connects African engineers with global product teams. This associate role is designed for developers with a solid foundation and evidence of shipped work who are ready to contribute to a client codebase under mentorship.",
+      "responsibilities": [
+        "Write, review and test code as part of an agile delivery team.",
+        "Participate in stand-ups, code reviews and retrospectives with a global client team.",
+        "Fix bugs and contribute small features under senior supervision.",
+        "Write documentation for the features you ship.",
+        "Complete weekly engineering practice sessions and technical assessments."
+      ],
+      "requirements": [
+        "Portfolio of at least two projects on GitHub with clear README documentation.",
+        "Working knowledge of JavaScript, Python, Java or Go and one web framework.",
+        "Familiarity with Git, REST APIs and relational databases.",
+        "Reliable broadband connection and a quiet workspace.",
+        "Available for the technical screening and a live pairing session."
+      ],
+      "salary": null,
+      "deadline": "2026-09-26",
+      "applyUrl": "https://www.andela.com/careers",
+      "sourceName": "andela.com/careers",
+      "sourceUrl": "https://www.andela.com/careers",
+      "image": "/images/cat-jobs.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-13"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": 1,
+      "slug": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders",
+      "organization": "U.S. Department of State — YALI",
+      "oppType": "Fellowship",
+      "region": "United States",
+      "summary": "A six-week intensive leadership programme at a U.S. university for Africans aged 25–35, followed by a summit in Washington, D.C. and continuing alumni support.",
+      "eligibility": [
+        "Citizen of a sub-Saharan African country, aged 25–35 at the time of application.",
+        "Currently residing in and working in a sub-Saharan African country.",
+        "Not a U.S. citizen or permanent resident, and not currently studying in the United States.",
+        "Proficient in English.",
+        "Not a current or former employee of the U.S. government or of the Mandela Washington Fellowship."
+      ],
+      "benefits": [
+        "Six-week academic and leadership institute at a host U.S. university.",
+        "Round-trip airfare, accommodation, meals and programme costs fully covered.",
+        "Travel allowance and any applicable visa fees reimbursed.",
+        "Invitation to the Washington, D.C. Summit for the full cohort.",
+        "Ongoing alumni funding, mentorship and networking after the programme."
+      ],
+      "deadline": "2026-10-16",
+      "process": [
+        "Complete the online application, including two short essays on leadership and community impact.",
+        "Provide two references who can speak to your professional work.",
+        "Submit before the October deadline — no late applications are accepted.",
+        "Semifinalists are interviewed by the U.S. Embassy or implementing partner between November and January.",
+        "Finalists are notified in March, with travel arranged for June."
+      ],
+      "applyUrl": "https://www.mandelawashingtonfellowship.org/",
+      "sourceName": "mandelawashingtonfellowship.org",
+      "sourceUrl": "https://www.mandelawashingtonfellowship.org/",
+      "image": "/images/cat-fellowships.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-19"
+    },
+    {
+      "id": 2,
+      "slug": "tony-elumelu-foundation-entrepreneurship-programme",
+      "title": "Tony Elumelu Foundation Entrepreneurship Programme (TEEP)",
+      "organization": "Tony Elumelu Foundation",
+      "oppType": "Grant",
+      "region": "Africa",
+      "summary": "A 12-week business programme for African entrepreneurs aged 18–39 offering seed funding of US$5,000, mentorship and access to the Foundation's investor network.",
+      "eligibility": [
+        "African entrepreneur aged 18–39 at the time of application.",
+        "Business idea or early-stage venture based in any of the 54 African countries.",
+        "Business operates in one of the Foundation's focus sectors: agriculture, technology, manufacturing, retail, health or energy.",
+        "Founder is able to commit to the full 12-week online programme.",
+        "Venture has been operating for no more than three years."
+      ],
+      "benefits": [
+        "US$5,000 non-refundable seed capital for successful applicants.",
+        "12 weeks of digital business training covering strategy, marketing and finance.",
+        "A dedicated mentor matched to your sector.",
+        "Access to the TEF alumni network of 12,000+ African founders.",
+        "Opportunity to pitch to investors at the annual showcase."
+      ],
+      "deadline": "2026-11-01",
+      "process": [
+        "Create an account on the Tony Elumelu Foundation entrepreneurial portal.",
+        "Complete the business profile, market analysis and financial projections sections.",
+        "Upload your identity document and any existing registration certificate.",
+        "Applications are reviewed by the Foundation's selection panel over six weeks.",
+        "Selected founders begin training in January and receive funding after module four."
+      ],
+      "applyUrl": "https://www.tonyelumelufoundation.org/entrepreneurship-programme/",
+      "sourceName": "tonyelumelufoundation.org",
+      "sourceUrl": "https://www.tonyelumelufoundation.org/entrepreneurship-programme/",
+      "image": "/images/cat-fellowships.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-17"
+    },
+    {
+      "id": 3,
+      "slug": "hult-prize-oncampus-2027",
+      "title": "Hult Prize OnCampus Challenge — Build a Social Enterprise",
+      "organization": "Hult Prize Foundation",
+      "oppType": "Competition",
+      "region": "Global",
+      "summary": "A campus-level startup competition where student teams compete for a US$1,000,000 seed fund by solving a social problem outlined in this year's annual challenge question.",
+      "eligibility": [
+        "Enrolled undergraduate or graduate students of any accredited university.",
+        "Teams of three to four members, at least half of whom must be from the same campus.",
+        "Open to all disciplines — no business or engineering degree required.",
+        "Each campus may register a limited number of teams, so apply early."
+      ],
+      "benefits": [
+        "Campus champion award and a place in the regional accelerator.",
+        "Access to the US$1,000,000 global seed fund for the winning team.",
+        "Mentorship from Hult Prize staff, investors and founders.",
+        "A structured curriculum for launching a measurable social enterprise.",
+        "Global visibility and an invitation to the international summit."
+      ],
+      "deadline": "2026-10-20",
+      "process": [
+        "Register your team and nominate a campus director or request an OnCampus programme.",
+        "Attend the challenge launch briefing to understand this year's question.",
+        "Submit a ten-slide concept deck describing the problem, solution and impact model.",
+        "Pitch at your campus finals; winners advance to the regional accelerator.",
+        "Regional winners receive funding support to build a working prototype."
+      ],
+      "applyUrl": "https://www.hultprize.org/oncampus",
+      "sourceName": "hultprize.org",
+      "sourceUrl": "https://www.hultprize.org/oncampus",
+      "image": "/images/cat-fellowships.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-15"
+    },
+    {
+      "id": 4,
+      "slug": "alx-ai-career-essentials-cohort",
+      "title": "ALX AI Career Essentials — Professional Certificate Cohort",
+      "organization": "ALX Africa",
+      "oppType": "Training",
+      "region": "Africa",
+      "summary": "A seven-week part-time programme preparing African young professionals to use generative AI tools productively in the workplace, closing with a verified certificate.",
+      "eligibility": [
+        "Aged 18–34 and resident in an African country.",
+        "A laptop or desktop and reliable internet access for weekly live sessions.",
+        "No prior AI or programming experience required.",
+        "Commitment to approximately 10 hours per week for seven weeks."
+      ],
+      "benefits": [
+        "Seven weeks of guided, project-based learning at no cost to admitted learners.",
+        "Live weekly sessions with mentors and a private peer community.",
+        "Portfolio projects demonstrating applied AI workflows.",
+        "Verified digital certificate on completion of all assessments.",
+        "Pathway into ALX's software engineering and data programmes."
+      ],
+      "deadline": "2026-09-29",
+      "process": [
+        "Submit the short application form on the ALX admissions portal.",
+        "Complete a brief motivation questionnaire about your career goals.",
+        "Receive an admission email with your cohort start date within seven days.",
+        "Activate your learner account and attend the orientation session.",
+        "Complete weekly projects and the final assessment to earn your certificate."
+      ],
+      "applyUrl": "https://www.alxafrica.com/",
+      "sourceName": "alxafrica.com",
+      "sourceUrl": "https://www.alxafrica.com/",
+      "image": "/images/cat-abroad.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-21"
+    },
+    {
+      "id": 5,
+      "slug": "one-young-world-summit-2027-delegates",
+      "title": "One Young World Summit 2027 — Delegate Scholarships",
+      "organization": "One Young World",
+      "oppType": "Conference",
+      "region": "Global",
+      "summary": "Scholarship places for outstanding young leaders aged 18–30 to attend the One Young World Summit, covering registration, accommodation and travel for selected applicants.",
+      "eligibility": [
+        "Aged 18–30 at the time of the Summit.",
+        "Demonstrated track record of leadership or impact in your community or field.",
+        "Available to attend the full duration of the Summit in person.",
+        "Fluent in English — the working language of the Summit.",
+        "Scholarship applicants must be referred by a One Young World Ambassador or an accredited organisation."
+      ],
+      "benefits": [
+        "Full Summit registration and delegate access to all plenaries and workshops.",
+        "Accommodation and meals for the duration of the Summit.",
+        "Return travel for scholarship recipients from a limited number of regions.",
+        "Membership of the One Young World Ambassador network after the event.",
+        "Access to year-round community events and leadership programmes."
+      ],
+      "deadline": "2026-12-01",
+      "process": [
+        "Create a profile on the One Young World application portal.",
+        "Complete the scholarship questions on your impact and leadership experience.",
+        "Add your referee's contact details — they will be asked to confirm your application.",
+        "Submit before the December deadline; shortlisted applicants are interviewed online.",
+        "Scholarship awards are announced in February 2027."
+      ],
+      "applyUrl": "https://www.oneyoungworld.com/summit",
+      "sourceName": "oneyoungworld.com",
+      "sourceUrl": "https://www.oneyoungworld.com/summit",
+      "image": "/images/cat-fellowships.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-11"
+    },
+    {
+      "id": 6,
+      "slug": "aiesec-global-community-development-exchange",
+      "title": "AIESEC Global Community Development Exchange",
+      "organization": "AIESEC",
+      "oppType": "Exchange",
+      "region": "Global",
+      "summary": "A six-to-eight week volunteer and leadership exchange abroad, working with local organisations on education, sustainability and community development projects.",
+      "eligibility": [
+        "Aged 18–30 and currently a student or recent graduate.",
+        "Passport valid for at least six months beyond the exchange end date.",
+        "Working proficiency in English; local language skills are an asset.",
+        "Able to self-fund the programme fee and travel, or secure a sponsoring employer.",
+        "Available for the full six-to-eight week duration."
+      ],
+      "benefits": [
+        "Placement with a vetted local organisation in one of AIESEC's 120+ countries.",
+        "Pre-departure cultural and project preparation training.",
+        "Accommodation and meals arranged by the host committee in most placements.",
+        "Certificate of completion and documented international experience.",
+        "Lifelong access to the AIESEC alumni network."
+      ],
+      "deadline": "2026-10-08",
+      "process": [
+        "Register on the AIESEC Opportunity Portal and complete your profile.",
+        "Filter opportunities by the Community Development category and your preferred continent.",
+        "Apply to a specific placement and complete the online interview with the receiving country.",
+        "Receive your acceptance letter and pay the programme fee.",
+        "Complete the pre-departure training before travelling to your host country."
+      ],
+      "applyUrl": "https://opportunities.aiesec.org/",
+      "sourceName": "opportunities.aiesec.org",
+      "sourceUrl": "https://opportunities.aiesec.org/",
+      "image": "/images/cat-abroad.svg",
+      "imageCredit": "Official provider artwork · via Edusphere Africa",
+      "publishedAt": "2026-09-10"
+    }
+  ]
+}
